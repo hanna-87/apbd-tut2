@@ -1,0 +1,15 @@
+/Users/hannakirieieva/RiderProjects/apbd-tutorial2/Tutorial2/Tutorial2/bin/Debug/net8.0/Tutorial2
+/Users/hannakirieieva/RiderProjects/apbd-tutorial2/Tutorial2/Tutorial2/bin/Debug/net8.0/Tutorial2.deps.json
+/Users/hannakirieieva/RiderProjects/apbd-tutorial2/Tutorial2/Tutorial2/bin/Debug/net8.0/Tutorial2.runtimeconfig.json
+/Users/hannakirieieva/RiderProjects/apbd-tutorial2/Tutorial2/Tutorial2/bin/Debug/net8.0/Tutorial2.dll
+/Users/hannakirieieva/RiderProjects/apbd-tutorial2/Tutorial2/Tutorial2/bin/Debug/net8.0/Tutorial2.pdb
+/Users/hannakirieieva/RiderProjects/apbd-tutorial2/Tutorial2/Tutorial2/obj/Debug/net8.0/Tutorial2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hannakirieieva/RiderProjects/apbd-tutorial2/Tutorial2/Tutorial2/obj/Debug/net8.0/Tutorial2.AssemblyInfoInputs.cache
+/Users/hannakirieieva/RiderProjects/apbd-tutorial2/Tutorial2/Tutorial2/obj/Debug/net8.0/Tutorial2.AssemblyInfo.cs
+/Users/hannakirieieva/RiderProjects/apbd-tutorial2/Tutorial2/Tutorial2/obj/Debug/net8.0/Tutorial2.csproj.CoreCompileInputs.cache
+/Users/hannakirieieva/RiderProjects/apbd-tutorial2/Tutorial2/Tutorial2/obj/Debug/net8.0/Tutorial2.sourcelink.json
+/Users/hannakirieieva/RiderProjects/apbd-tutorial2/Tutorial2/Tutorial2/obj/Debug/net8.0/Tutorial2.dll
+/Users/hannakirieieva/RiderProjects/apbd-tutorial2/Tutorial2/Tutorial2/obj/Debug/net8.0/refint/Tutorial2.dll
+/Users/hannakirieieva/RiderProjects/apbd-tutorial2/Tutorial2/Tutorial2/obj/Debug/net8.0/Tutorial2.pdb
+/Users/hannakirieieva/RiderProjects/apbd-tutorial2/Tutorial2/Tutorial2/obj/Debug/net8.0/Tutorial2.genruntimeconfig.cache
+/Users/hannakirieieva/RiderProjects/apbd-tutorial2/Tutorial2/Tutorial2/obj/Debug/net8.0/ref/Tutorial2.dll
